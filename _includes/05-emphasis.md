@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am an intermediate **Python** user, I know a little **R** and **SQL**, and now a little **Markdown** too!
